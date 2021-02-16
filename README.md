@@ -1,10 +1,10 @@
 # Digital-Electronics-1
-## Cviceni 1
+## Header1
 ```
-TEXT 1
+TEXT1
 ```
 [Youtube](https://www.youtube.com)
-## Cviceni 2
+## Header2
 ```
 TEXT 2
 ```
