@@ -15,23 +15,6 @@
 ## Kod
 [link](https://www.edaplayground.com/x/hwYq)
 ```vhdl
-------------------------------------------------------------------------
---
--- Example of basic OR, AND, XOR gates.
--- Nexys A7-50T, Vivado v2020.1, EDA Playground
---
--- Copyright (c) 2019-2020 Tomas Fryza
--- Dept. of Radio Electronics, Brno University of Technology, Czechia
--- This work is licensed under the terms of the MIT license.
---
-------------------------------------------------------------------------
-
-library ieee;               -- Standard library
-use ieee.std_logic_1164.all;-- Package for data types and logic operations
-
-------------------------------------------------------------------------
--- Entity declaration for basic gates
-------------------------------------------------------------------------
 entity gates is
     port(
         a_i    : in  std_logic;         -- Data input
@@ -62,26 +45,12 @@ end architecture dataflow;
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/Screenshot%202021-02-16%20220142.png)
 # Experiment your own
 ## Boolean postulates
+```
+Výstupy vyšly dle očekávání
+```
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/ad1.png)
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/1.png)
 ```vhdl
-------------------------------------------------------------------------
---
--- Example of basic OR, AND, XOR gates.
--- Nexys A7-50T, Vivado v2020.1, EDA Playground
---
--- Copyright (c) 2019-2020 Tomas Fryza
--- Dept. of Radio Electronics, Brno University of Technology, Czechia
--- This work is licensed under the terms of the MIT license.
---
-------------------------------------------------------------------------
-
-library ieee;               -- Standard library
-use ieee.std_logic_1164.all;-- Package for data types and logic operations
-
-------------------------------------------------------------------------
--- Entity declaration for basic gates
-------------------------------------------------------------------------
 entity gates is
     port(
         x_i    : in  std_logic;         -- Data input
@@ -110,26 +79,12 @@ end architecture dataflow;
 ```
 [link](https://www.edaplayground.com/x/ejxx)
 ## Distributive Laws
+```
+Výstupy vyšly dle očekávání, F21 = F22 a F23 = F24
+```
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/ad2.png)
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/2.png)
 ```vhd1
-------------------------------------------------------------------------
---
--- Example of basic OR, AND, XOR gates.
--- Nexys A7-50T, Vivado v2020.1, EDA Playground
---
--- Copyright (c) 2019-2020 Tomas Fryza
--- Dept. of Radio Electronics, Brno University of Technology, Czechia
--- This work is licensed under the terms of the MIT license.
---
-------------------------------------------------------------------------
-
-library ieee;               -- Standard library
-use ieee.std_logic_1164.all;-- Package for data types and logic operations
-
-------------------------------------------------------------------------
--- Entity declaration for basic gates
-------------------------------------------------------------------------
 entity gates is
     port(
         x_i    : in  std_logic;         -- Data input
