@@ -12,7 +12,7 @@ TEXT1
 1. First
 2. second
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+* X
+- 1
++ 2
 
