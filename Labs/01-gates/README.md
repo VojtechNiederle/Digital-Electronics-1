@@ -62,4 +62,5 @@ end architecture dataflow;
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/Screenshot%202021-02-16%20220142.png)
 # Experiment your own
 ## Boolean postulates
-
+![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/ad1.png)
+![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/1.png)
