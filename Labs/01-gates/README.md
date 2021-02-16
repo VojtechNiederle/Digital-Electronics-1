@@ -1,7 +1,7 @@
 # Link na github
 [link](https://github.com/VojtechNiederle/Digital-Electronics-1)
 # Fabc
-##Tabulka
+## Tabulka
 | c | b | a | f(abc) |
 | - | - | - | ------ |
 | 0 | 0 | 0 | 1 |
@@ -12,7 +12,7 @@
 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
-##Kod
+## Kod
 [link](https://www.edaplayground.com/x/hwYq)
 ```vhdl
 begin
@@ -22,5 +22,5 @@ begin
     --fand_o <= a_i and b_i;
     --fxor_o <= a_i xor b_i;
 ```
-##Screen
+## Screen
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/Screenshot%202021-02-16%20220142.png)
