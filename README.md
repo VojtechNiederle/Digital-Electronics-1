@@ -20,4 +20,7 @@ TEXT1
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
+## VHDL
+```vhdl
+for_o <=a_i or b_i;
+```
