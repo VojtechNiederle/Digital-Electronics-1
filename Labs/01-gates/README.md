@@ -109,3 +109,52 @@ end architecture dataflow;
 
 ```
 [link](https://www.edaplayground.com/x/ejxx)
+## Distributive Laws
+![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/ad2.png)
+![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/2.png)
+```vhd1
+------------------------------------------------------------------------
+--
+-- Example of basic OR, AND, XOR gates.
+-- Nexys A7-50T, Vivado v2020.1, EDA Playground
+--
+-- Copyright (c) 2019-2020 Tomas Fryza
+-- Dept. of Radio Electronics, Brno University of Technology, Czechia
+-- This work is licensed under the terms of the MIT license.
+--
+------------------------------------------------------------------------
+
+library ieee;               -- Standard library
+use ieee.std_logic_1164.all;-- Package for data types and logic operations
+
+------------------------------------------------------------------------
+-- Entity declaration for basic gates
+------------------------------------------------------------------------
+entity gates is
+    port(
+        x_i    : in  std_logic;         -- Data input
+        y_i    : in  std_logic;         -- Data input
+        z_i    : in  std_logic;         -- Data input        -- AND output function
+        f21_o : out std_logic;
+        f22_o : out std_logic;
+        f23_o : out std_logic;
+        f24_o : out std_logic      -- XOR output function
+    );
+end entity gates;
+
+------------------------------------------------------------------------
+-- Architecture body for basic gates
+------------------------------------------------------------------------
+architecture dataflow of gates is
+begin
+   
+    f21_o <= (x_i and y_i) or (x_i and z_i);
+    f22_o <= x_i and (y_i or z_i);
+    f23_o <= (x_i or y_i) and (x_i or z_i);
+    f24_o <= x_i or (y_i and z_i);
+
+end architecture dataflow;
+```
+[link](https://www.edaplayground.com/x/rbve)
+
+
