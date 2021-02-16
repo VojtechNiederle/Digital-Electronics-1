@@ -23,4 +23,4 @@ begin
     --fxor_o <= a_i xor b_i;
 ```
 ##Screen
-![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/Prubeh2.png)
+![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/01-gates/images/Screenshot%202021-02-16%20220142.png)
