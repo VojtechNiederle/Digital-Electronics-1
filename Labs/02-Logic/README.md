@@ -18,3 +18,4 @@
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
+![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/edit/main/Labs/02-Logic/x.png)
