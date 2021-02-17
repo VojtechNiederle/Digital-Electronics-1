@@ -20,3 +20,4 @@
 
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/02-Logic/x.jpg)
 # Karnuagh map
+![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/02-Logic/151202793_171284317896440_6009061253456098907_n.jpg)
