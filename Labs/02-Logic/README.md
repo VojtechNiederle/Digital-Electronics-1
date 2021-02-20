@@ -21,6 +21,8 @@
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/02-Logic/x.jpg)
 # Karnuagh map
 ![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/02-Logic/151202793_171284317896440_6009061253456098907_n.jpg)![alt text](https://github.com/VojtechNiederle/Digital-Electronics-1/blob/main/Labs/02-Logic/150709017_744721896248835_1968623941312972118_n.jpg)
+# 2Bit
+https://www.edaplayground.com/x/edBz
 # 4Bit
 
 ## Testbench
