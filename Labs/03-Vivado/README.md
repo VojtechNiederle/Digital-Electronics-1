@@ -1,5 +1,5 @@
 #Github návod
-###Vytváření projektu
+##Vytváření projektu
 '''
 1)není vhodné volit název projektu nebo cestu s diakritikou nebo mezerami
 2)RTL project
@@ -7,7 +7,7 @@
 4)Add constrains není zatim nutné
 5)Jako desku jsem zvolil Nexys A7-50T
 '''
-###Add sources
+##Add sources
 '''
 pokud jsem to neudělal v předchozím kroku je nutné vytvořit kod
 1)File
@@ -15,7 +15,7 @@ pokud jsem to neudělal v předchozím kroku je nutné vytvořit kod
 3)Add or create simulation sources
 4)create a new VHDL
 '''
-###Simulace
+##Simulace
 '''
 1)Flow
 2)Run Simulation
