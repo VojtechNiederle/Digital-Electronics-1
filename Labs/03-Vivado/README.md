@@ -11,6 +11,7 @@ zapojení ledek a přepínačů:
 ![pic](img/1.png)
 # Multiplexer
 ![pic](img/2.png)
+## Architektura
 ```VHDL
 ------------------------------------------------------------------------
 library ieee;
@@ -39,6 +40,7 @@ begin
 end architecture Behavioral;
 
 ```
+## Testbench
 ```VHDL
 library ieee;
 use ieee.std_logic_1164.all;
