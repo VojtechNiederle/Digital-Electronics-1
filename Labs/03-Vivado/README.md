@@ -1,7 +1,7 @@
 # Preparation tasks
 
 ![pic](img/LED1.png)
-##Tabulka
+## Tabulka
 
 | **NO** | **Switch** |  **LED**  |
 | 0 | J15 | H17 |
