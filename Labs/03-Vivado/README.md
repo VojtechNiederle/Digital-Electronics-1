@@ -1,3 +1,12 @@
+# Preparation tasks
+```
+Výstupy pro ledky:
+```
+![pic](Images/bank14.png)
+```
+zapojení ledek a přepínačů:
+```
+![pic](Images/LED.png)
 # Vivado návod
 ## Vytváření projektu
 ```
