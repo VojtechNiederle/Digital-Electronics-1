@@ -10,6 +10,13 @@ zapojení ledek a přepínačů:
 # Part 2: Project creation in Vivado
 ![pic](img/1.png)
 # Multiplexer
+## Tabulka pro a=00 b=01 c=10 d=11
+| **Select sel_i[1:0]** | **Output f_o[1:0]** |
+| :-: | :-: |
+| 0 0 | 0 0 |
+| 0 1 | 0 1|
+| 1 0 | 1 0 |
+| 1 1 | 1 1 |
 ![pic](img/2.png)
 ## Architektura
 ```VHDL
