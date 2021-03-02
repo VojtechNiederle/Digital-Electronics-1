@@ -19,7 +19,6 @@ zapojení ledek a přepínačů:
 | 1 1 | 1 1 |
 
 
-![pic](img/2.png)
 ## Architektura
 ```VHDL
 ------------------------------------------------------------------------
@@ -97,6 +96,8 @@ begin
 end architecture testbench;
 
 ```
+## Screen
+![pic](img/2.png)
 # Vivado návod
 ## Vytváření projektu
 ```
