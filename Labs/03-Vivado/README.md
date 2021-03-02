@@ -17,6 +17,8 @@ zapojení ledek a přepínačů:
 | 0 1 | 0 1|
 | 1 0 | 1 0 |
 | 1 1 | 1 1 |
+
+
 ![pic](img/2.png)
 ## Architektura
 ```VHDL
