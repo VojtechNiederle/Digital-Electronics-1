@@ -20,7 +20,6 @@ zapojení ledek a přepínačů:
 ```
 ## Add sources
 ```
-pokud jsem to neudělal v předchozím kroku je nutné vytvořit kod
 1)File
 2)Add Sources
 3)Add or create simulation sources
