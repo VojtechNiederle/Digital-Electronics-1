@@ -1,11 +1,5 @@
 # Preparation tasks
-```
-Výstupy pro ledky:
-```
-![pic](img/Bank14.png)
-```
-zapojení ledek a přepínačů:
-```
+
 ![pic](img/LED.png)
 # Part 2: Project creation in Vivado
 ![pic](img/1.png)
