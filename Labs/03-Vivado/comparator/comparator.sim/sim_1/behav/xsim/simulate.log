@@ -1,0 +1,20 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Note: Stimulus process started
+Time: 0 ps  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 00, 01
+Time: 200 ns  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 00, 10
+Time: 300 ns  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 00, 11
+Time: 400 ns  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 01, 00
+Time: 500 ns  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 01, 11
+Time: 700 ns  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 11, 00
+Time: 800 ns  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 11, 01
+Time: 900 ns  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
+Error: Test failed for input combination: 11, 10
+Time: 1 us  Iteration: 0  Process: /tb_comparator_2bit/p_stimulus  File: C:/Users/vojta/Desktop/03-Vivado/comparator/comparator.srcs/sim_1/new/tb_comparator_2bit.vhd
