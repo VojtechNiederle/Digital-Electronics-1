@@ -2,11 +2,11 @@
 ```
 Výstupy pro ledky:
 ```
-![pic](Img/bank14.png)
+![pic](img/bank14.png)
 ```
 zapojení ledek a přepínačů:
 ```
-![pic](Img/LED.png)
+![pic](img/LED.png)
 # Vivado návod
 ## Vytváření projektu
 ```
