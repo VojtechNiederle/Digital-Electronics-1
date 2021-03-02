@@ -20,6 +20,7 @@
 | 13 | U12 | V14 |
 | 14 | U11 | V12 |
 | 15 | V10 | V11 |
+
 # Part 2: Project creation in Vivado
 ![pic](img/1.png)
 # Multiplexer
