@@ -1,4 +1,4 @@
-# Github návod
+# Vivado návod
 ## Vytváření projektu
 ```
 1)není vhodné volit název projektu nebo cestu s diakritikou nebo mezerami
