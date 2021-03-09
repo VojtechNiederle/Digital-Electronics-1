@@ -1,7 +1,8 @@
 ## Schema
 ```
 Přez piny T10 až H15 jsou připojeny na katody.
-Anoda je společná pro každé číslo a je ovládáná tranzistory ovládanými piny U13 až J17(tzn. transistory je řízeno který display bude svítit). 
+Anoda je společná pro každé číslo a je ovládáná tranzistory ovládanými piny U13 až J17(tzn. transistory je 
+řízeno který display bude svítit). 
 Z toho vyplývá že že ledky jsou ovládány přivedením země na abcdefg
 ```
 ![pic](img/SchemaLed.png)
