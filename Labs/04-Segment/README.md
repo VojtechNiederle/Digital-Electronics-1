@@ -1,4 +1,8 @@
 ## Schema
+```
+Přez piny T10 až H15 jsou připojeny na katody. Anoda je společná pro každé číslo a je ovládáná tranzistory ovládanými piny U13 až J17. 
+
+```
 ![pic](img/SchemaLed.png)
 ## Tabulka
 
