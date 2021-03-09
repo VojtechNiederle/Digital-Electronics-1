@@ -1,3 +1,5 @@
+## Schema
+![pic](SchemaLed/1.png)
 ## Tabulka
 
 | **Hex** | **Inputs** | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
