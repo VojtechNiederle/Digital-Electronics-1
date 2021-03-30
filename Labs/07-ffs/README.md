@@ -134,4 +134,4 @@
         wait;
     end process p_stimulus;
 ```
-![Waveform D-latch](img/1.png)
+![Waveform D-latch](img/2.png)
